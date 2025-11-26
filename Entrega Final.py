@@ -562,4 +562,5 @@ def main():
 
 # Iniciar programa
 print("🚀 Ejecutando sistema médico completo...")
+
 main()
