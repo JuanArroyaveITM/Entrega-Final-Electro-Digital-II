@@ -1,1 +1,2 @@
 # Entrega-Final-Electro-Digital-II
+Sistema domótico hospitalario con ESP32-C3 que integra monitoreo médico (temperatura, humedad, frecuencia cardíaca y oxigenación con sensores DHT11 y MAX30100), control automático de cortinas, puertas y luces mediante servos, comunicación remota vía Telegram para comandos y alertas en tiempo real, y envío de datos a plataforma ThingSpeak para visualización web, todo implementado en MicroPython con gestión automática de alarmas médicas y control desde cualquier ubicación.
